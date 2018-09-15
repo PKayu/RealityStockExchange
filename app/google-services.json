@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "70022673883",
+    "firebase_url": "https://reality-stock-exchange.firebaseio.com",
+    "project_id": "reality-stock-exchange",
+    "storage_bucket": "reality-stock-exchange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70022673883:android:b039a7aa5bee291e",
+        "android_client_info": {
+          "package_name": "com.helwostudio.realitystockexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70022673883-fstp06nutbplofe8vsb4te078tqq9693.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helwostudio.realitystockexchange",
+            "certificate_hash": "e9bdcf1518d4b47f5a473249e54c02c6a425104b"
+          }
+        },
+        {
+          "client_id": "70022673883-f9kocu98cks2terdmn2rnfhpgm0ua94l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFeZCfc-CISET-jPdUa_xOVoYYhRf6EB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70022673883-f9kocu98cks2terdmn2rnfhpgm0ua94l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
