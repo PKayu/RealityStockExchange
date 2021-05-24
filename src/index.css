@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.content{
+  margin:2em;
+  background-color: white;
+  padding: 2em;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+td {
+  text-align: left;
+}
+.keys {
+  font-weight: bold;
+}
+table {
+  margin-top: 2em;
+  width: 100%;
+}
+.tableSpace {
+  width: 1em;
+}
+
+.combobox select {
+  margin-top: 1em;
+  width: 150px;
+}
+
+.playerTable table, .playerTable th, .playerTable td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.playerTable td {
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: center;
+}
